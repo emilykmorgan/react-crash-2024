@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Hero = ({title = "a", subtitle ="b"}) => {
+const Hero = ({title = "a", subtitle = "b"}) => {
     return (
         <>
             <div>{title}</div>
